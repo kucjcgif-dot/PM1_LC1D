@@ -1,2 +1,3 @@
 ﻿Console.WriteLine("Hello, newBranch!");
-Console.WriteLine("Hello, newPullRequest");
+
+Console.WriteLine("Hello, PullRequest");
